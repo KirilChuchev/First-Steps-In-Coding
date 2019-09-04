@@ -1,2 +1,2 @@
-# First-Steps-In-Coding
+# Simple-Operations-and-Calculations
 Basics
